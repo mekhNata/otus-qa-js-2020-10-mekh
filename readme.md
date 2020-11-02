@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-hjdfdkf
-=======
-sdfsdfs
-
-"Second change"
->>>>>>> develop
+## First changes
